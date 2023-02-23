@@ -12,7 +12,7 @@ Host file : c2_hosts was designed for the California State University Chico clus
 req: must have SSH access to all nodes without password
 req: must populate /tmp/sg_input_images with images to be processed on all nodes
 req: must create /tmp/output_files on all nodes
-
+Req: The Images must be in .pgm format
 
 
  To Compile
